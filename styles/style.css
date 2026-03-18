@@ -1,3 +1,13 @@
+.marmelad-regular {
+  font-family: "Marmelad", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+html {
+    font-family: "Marmelad", sans-serif;;
+}
+
 h1 {
     color: #007a42;
 }
